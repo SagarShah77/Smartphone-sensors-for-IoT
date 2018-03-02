@@ -1,0 +1,4 @@
+return {payload: Math.abs(msg.payload.d.acceleration_y)}; 
+
+Wow!Is your phone falling? 
+Its acceleration y = {{payload}}!
